@@ -14,11 +14,11 @@
 | 4.   | **Iterator**        | `ListIterator`         | Used to iterate elements. `ListIterator` supports forward and backward traversal. |
 | 5.   | **Custom Comparator** | –                    | Custom sorting logic using lambda or comparator class. |
 | 6.   | **Common Algorithms** |                        | Built-in utilities from `Collections` and `Arrays`. |
-|      | –                  | `Collections.sort(list)`         | Sorts list in ascending order. |
-|      | –                  | `Collections.max(list)`          | Returns maximum element. |
-|      | –                  | `Collections.min(list)`          | Returns minimum element. |
-|      | –                  | `Collections.reverse(list)`      | Reverses the list. |
-|      | –                  | `Arrays.sort(array)`             | Sorts an array. |
-|      | –                  | `Collections.frequency(list, e)` | Counts how many times `e` appears in list. |
-|      | –                  | `Collections.binarySearch(list, key)` | Searches in a sorted list. |
-|      | –                  | `Math.pow(base, exponent)`       | Calculates exponentiation (e.g., `2^3 = 8`). |
+|      |                    | `Collections.sort(list)`         | Sorts list in ascending order. |
+|      |                    | `Collections.max(list)`          | Returns maximum element. |
+|      |                    | `Collections.min(list)`          | Returns minimum element. |
+|      |                    | `Collections.reverse(list)`      | Reverses the list. |
+|      |                    | `Arrays.sort(array)`             | Sorts an array. |
+|      |                    | `Collections.frequency(list, e)` | Counts how many times `e` appears in list. |
+|      |                    | `Collections.binarySearch(list, key)` | Searches in a sorted list. |
+|      |                    | `Math.pow(base, exponent)`       | Calculates exponentiation (e.g., `2^3 = 8`). |
