@@ -1,4 +1,3 @@
-# Java-Collection
 
 ## 📚 Java Collections Summary
 
